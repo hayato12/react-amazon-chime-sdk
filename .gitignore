@@ -10,6 +10,7 @@
 
 # production
 /build
+/src/temp-join-config.json
 
 # misc
 .DS_Store
